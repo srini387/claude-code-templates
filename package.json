@@ -16,7 +16,7 @@
     "discord:register": "node api/discord/register-commands.cjs"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.39.0",
+    "@supabase/supabase-js": "^2.81.1",
     "@vercel/postgres": "^0.10.0",
     "axios": "^1.6.2",
     "boxen": "^5.1.2",
